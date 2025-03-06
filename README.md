@@ -3,8 +3,8 @@
 ## Reporting for learning! 💡
 
 
-- 🔭 I’m currently working on the Hosting Platform for IRI Digital First Standards
-- 🌱 I’m currently learning Github
+- 🔭 I’m working on the Hosting Platform for IRI Digital First Standards
+- 🌱 I’m learning Github
 
   
 | Project | Status |
