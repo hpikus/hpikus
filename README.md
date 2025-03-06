@@ -1,6 +1,6 @@
-## Hi there 👋 My Name is Hannah, pronounced Ha - Na. 
+# Hi 👋 My Name is Hannah, pronounced Ha - Na. 
 
-# Reporting for learning! 💡
+## Reporting for learning! 💡
 
 
 - 🔭 I’m currently working on the Hosting Platform for IRI Digital First Standards
